@@ -1,0 +1,112 @@
+* {
+  color: #2C2A4A;
+}
+
+body {
+
+  padding-top: 70px
+}
+
+#spacer {
+  height: 75px;
+}
+
+#spacer-small {
+  height: 25px;
+}
+
+#spacer-xs {
+  height: 10px;
+}
+
+#intro {
+  background-color: #C1CEFE;
+  background-color: #3ca0d8;
+}
+
+#intro-img {
+  background-image: url('../images/fractal_cactus-no_text.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#portfolio-style {
+  background-color: #2C2A4A;
+  background-color: #4F518C;
+  background-color: #1871a3;
+}
+
+#contact {
+  background-color: #C1CEFE;
+  background-color: #3ca0d8;
+}
+
+#contact-img {
+  background-image: url('../images/blue_mo.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.border-color {
+  background-color: #2C2A4A;
+}
+
+.intro-header {
+  font-family: 'Baloo', cursive;
+  color: #fff;
+  text-shadow: 0px 0px 8px #000;
+  font-size: 40px;
+}
+
+.navbar-theme {
+  background-color: #dee4f7;
+}
+
+.ttext {
+  color: #2C2A4A;
+}
+
+.small-image {
+  width: 225px;
+  border: 5px solid #000;
+  border-radius: 0px 10px 50px 10px;
+}
+
+.but-back {
+  background-color: #FFE2E2;
+}
+
+.boxer {
+  background-color: #EBF2FA;
+  font-size: 18px;
+  padding: 20px;
+}
+
+.boxer2 {
+  background-color: #dee4f7;
+  font-size: 18px;
+  padding: 20px;
+}
+
+.logo-text {
+  padding: 10px 5px 5px 5px;
+  font-size: 22px;
+  font-family: 'Baloo', cursive;
+}
+
+.btn-tx {
+  padding-left: 15px;
+  padding-right: 10px;
+  font-size: 20px;
+  color: #fff;
+  font-family: 'Baloo', cursive;
+}
+
+wht-icn {
+  color: #fff;
+}

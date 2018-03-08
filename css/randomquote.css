@@ -1,0 +1,24 @@
+.quote-txt {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 32px;
+}
+
+.author-txt {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 22px;
+}
+
+.big-btn {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  background-color: #2C2A4A;
+}
+
+.qt-bx-ht {
+  min-height: 350px;
+}
+
+.big-btn:hover, .big-btn:focus, .big-btn:active {
+  color: white !important;
+}
